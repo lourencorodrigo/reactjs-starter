@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Our first snapshot test Should compare the component with a snapshot 1`] = `
+<h1
+  className={undefined}
+>
+  Welcome to 
+  React
+</h1>
+`;
