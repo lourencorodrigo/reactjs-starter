@@ -107,7 +107,7 @@ Crie o arquivo `.eslint` na raiz do seu projeto com o conteúdo recomendado abai
     "plugin:react/recommended"
   ],
   "rules": {
-    "react/jsx-uses-react": "error"k,
+    "react/jsx-uses-react": "error",
     "react/jsx-uses-vars": "error",
     "react/jsx-max-props-per-line": "error",
     "space-before-function-paren": [
